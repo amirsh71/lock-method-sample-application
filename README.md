@@ -1,1 +1,1 @@
-# lock-method-sample-application
+# method-lock-sample-application
